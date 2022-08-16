@@ -1,7 +1,6 @@
-**Name**: Kunaal Gupta
+**Author**: Kunaal Gupta
 
-**Course & Term Name**: CMPUT 274, Fall 2021 | 
-**Exercise**: Weekly Excercise & Morning Problems
+**Course & Term Name**: CMPUT 274, Fall 2021 | Weekly Excercise & Morning Problems
 
 **Programming Language** - Python
 
